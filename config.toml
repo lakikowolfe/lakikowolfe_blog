@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://lakikowolfe.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "L. Wolfe"
